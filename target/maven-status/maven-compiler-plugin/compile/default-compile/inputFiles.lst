@@ -1,0 +1,9 @@
+/home4/ce631456/Desktop/Master2/DonneesMassives/TP/kafka2/src/main/java/com/kafka/ConsMain.java
+/home4/ce631456/Desktop/Master2/DonneesMassives/TP/kafka2/src/main/java/com/kafka/ConsMoyenne.java
+/home4/ce631456/Desktop/Master2/DonneesMassives/TP/kafka2/src/main/java/com/kafka/Consommateur.java
+/home4/ce631456/Desktop/Master2/DonneesMassives/TP/kafka2/src/main/java/com/kafka/Consommateur2.java
+/home4/ce631456/Desktop/Master2/DonneesMassives/TP/kafka2/src/main/java/com/kafka/CustomPartitioner.java
+/home4/ce631456/Desktop/Master2/DonneesMassives/TP/kafka2/src/main/java/com/kafka/ProdMain.java
+/home4/ce631456/Desktop/Master2/DonneesMassives/TP/kafka2/src/main/java/com/kafka/Producteur.java
+/home4/ce631456/Desktop/Master2/DonneesMassives/TP/kafka2/src/main/java/com/kafka/TemperatureStatsSerde.java
+/home4/ce631456/Desktop/Master2/DonneesMassives/TP/kafka2/src/main/java/com/kafka/TraitementTemperature.java
