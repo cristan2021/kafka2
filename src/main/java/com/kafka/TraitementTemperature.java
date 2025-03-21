@@ -46,9 +46,9 @@ public class TraitementTemperature {
                 StreamsBuilder constructeur = new StreamsBuilder();
                 KStream<String, String> flux = constructeur.stream("topic1");
 
-                TimeWindows fenetreTemps = TimeWindows.ofSizeWithNoGrace(Duration.ofSeconds(10));
+                TimeWindows fenetreTemps = TimeWindows.ofSizeWithNoGrace(Duration.ofMinutes(5));
 
-                // Transformation des données
+        
                 KStream<String, Double> fluxTemperature = flux
                                 .map(new KeyValueMapper<String, String, KeyValue<String, Double>>() {
                                         @Override
